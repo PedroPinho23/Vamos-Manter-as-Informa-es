@@ -1,6 +1,6 @@
-# CadastroPOO
+Vamos manter as informações!
 
-> Projeto de prática da disciplina de Programação Orientada a Objetos com Java.
+> Projeto de prática da disciplina de Modelagem e Implementação de Banco de Dados Relacional
 
 ## 🎯 Objetivo da Prática
 
